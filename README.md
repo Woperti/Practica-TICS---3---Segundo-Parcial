@@ -1,8 +1,10 @@
 # Story Telling
 
-##### Herramientas a usar: Google forms, google sheets, google docs, google slides, google draw, google drive o sus equivalentes en microsoft si no cuenta con una cuenta de google.
-** El proyecto se trabajara en el laboratorio durante el horario de clases y podran usar tiempo fuera del horario escolar para completarlo.
-
+##### Herramientas a usar: 
+    Google forms, google sheets, google docs, google slides, google draw, google drive o sus equivalentes en microsoft si no cuenta con una cuenta de google.
+    AppInventor, para imagenes sin copyright: unsplash, etc.
+    ** El proyecto se trabajara en el laboratorio durante el horario de clases y podran usar tiempo fuera del horario escolar para completarlo.
+    
 Introduccion:
 
 1. Investigar que es Story Telling y los siguientes conceptos:
@@ -14,6 +16,7 @@ Introduccion:
 4. Crear una Persona
 4. Aplica las 3C'S
 5. Implementar INVEST
+6. Investigar el concepto de MVP(Minimum Viable Project) / Proyecto Minimo Viable para hacer una app funcional en el resto 
 
 Ejemplo: 
 
@@ -77,12 +80,19 @@ Gráfico de barras para comparar cuántos usuarios encuentran útil la app.
 Gráfico de pastel para mostrar la distribución de padres vs. estudiantes en la encuesta.
 Los gráficos les permitirán analizar las tendencias y ajustar su storytelling y el desarrollo del producto en función de las necesidades identificadas.
 
+6. Creacion de una app con AppInventor
+   Crear la pantalla de Inicio
+   Crear la pantalla que muestre el contenido de la aplicacion que realizara.
+   Dibujar mockups(El diseno de la app). Mantenerlo simple.
+   Mostrar el diseno de la App
+   Realizar los bloques
+   Realizar una simulacion funcional de la aplicacion.
+   
 ### Evaluacion del Story Telling efectivo
 Claridad del mensaje: ¿El mensaje es fácil de entender y llega a la audiencia?
 Conflicto y solución: ¿Se presenta un problema claro y cómo el producto lo resuelve?
 Conexión emocional: ¿La historia se conecta de manera significativa con el público objetivo?
 Aplicación del INVEST: ¿Es flexible, pequeña, y se puede medir su impacto?
-
 
 Criterios de aceptacion y evaluacion.
 
@@ -104,6 +114,7 @@ Otras prácticas en storytelling utilizando TICs:
 **Mapas conceptuales en Google Drawings: Crear mapas conceptuales para visualizar las relaciones entre los conceptos de storytelling (roles, 3 C’s, INVEST).
 Edición colaborativa de imágenes: Pueden utilizar herramientas como Canva para crear imágenes que acompañen su historia en Google Docs o Slides. Esto les permitirá añadir un componente visual al storytelling.
 
+Parte 4. Anadir el diseno de una app.
 ## Estructura del trabajo a entregar
 
 Portada en Formato APA:
@@ -136,7 +147,8 @@ Presentación en Google Slides:
 
 Resumen visual del trabajo (diapositivas que contengan puntos clave, imágenes, y gráficos).
 Presentación de la "Persona" creada y cómo se aplican las 3C’s e INVEST.
-Conclusión:
+
+Conclusión: 
 
 Resumen de los aprendizajes obtenidos en la práctica de storytelling.
 Reflexión sobre la utilidad de herramientas tecnológicas (Google Docs, Sheets, Slides) en la presentación de proyectos.
@@ -149,6 +161,7 @@ Formato APA: Se evaluará la correcta aplicación del formato APA en todo el tra
 Colaboración: Uso de herramientas colaborativas (Google Docs, Sheets) para el desarrollo conjunto del proyecto.
 Presentación Visual: Calidad de la presentación en Google Slides, uso correcto de imágenes, gráficos y diseño profesional.
 Originalidad y Creatividad: Uso creativo de los conceptos de storytelling en el ejemplo ficticio.
+La app simulada.
 
 ## Evaluacion
 
@@ -156,3 +169,4 @@ Claridad: ¿Está la investigación organizada de manera clara y fácil de enten
 Colaboración: ¿Utilizaron las herramientas de colaboración (comentarios, edición conjunta) de Google Docs de manera efectiva? (10%)
 Creatividad: ¿Aplicaron de manera creativa los conceptos de roles, las 3 C’s y el método INVEST en sus ejemplos o historias? (10%)
 Presentación visual: ¿Usaron correctamente las herramientas de Google Slides o Google Sheets para presentar la información de manera atractiva y comprensible? (30%)
+La app simulada.
