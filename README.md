@@ -1,6 +1,6 @@
-# Story Telling
+# Story Telling y la creacion de una aplicacion.
 
-##### Herramientas a usar: Google forms, google sheets, google docs, google slides, google draw, google drive o sus equivalentes en microsoft si no cuenta con una cuenta de google.
+##### Herramientas a usar: Java editor(Netbeans, jetbrains, etc), Google forms, google sheets, google docs, google slides, google draw, google drive o sus equivalentes en microsoft si no cuenta con una cuenta de google.
 ** El proyecto se trabajara en el laboratorio durante el horario de clases y podran usar tiempo fuera del horario escolar para completarlo.
 
 Introduccion:
@@ -14,7 +14,8 @@ Introduccion:
 4. Crear una Persona
 4. Aplica las 3C'S
 5. Implementar INVEST
-
+6. Investigar el concepto de MVP(Minimum Viable Product) / Proyecto Minimo Viable
+   
 Ejemplo: 
 
 ## Empresa imaginaria: GreenEarth Innovations
@@ -50,6 +51,7 @@ Ejemplos de Preguntas:
 ¿Qué importancia le das a la sostenibilidad y el uso de herramientas digitales en la escuela?
 ¿Utilizas alguna aplicación para organizar las tareas escolares de tus hijos?
 ¿Qué funcionalidad sería más útil en una app escolar?
+
 Número de usuarios mínimos:
 
 Cada equipo debe recolectar datos de al menos 30-50 usuarios para tener una base estadística significativa. Estos usuarios pueden ser estudiantes, padres o ambos o otros profesores, personal de limpieza, etc. Poblacion escolar activa, dependiendo del enfoque del proyecto.
@@ -64,25 +66,27 @@ Enséñales a los estudiantes a identificar su audiencia objetivo de acuerdo con
 Por ejemplo, si el proyecto es la "EcoSchool App", su audiencia objetivo serían tanto los padres preocupados por la educación de sus hijos como los estudiantes que buscan soluciones digitales.
 
 4. Implementar el Storytelling en la Recolección de Datos
-Los estudiantes deben aplicar roles de storytelling al analizar los resultados de las encuestas. Por ejemplo, pueden identificar al "Héroe" como el padre o el estudiante que enfrenta el desafío de reducir el uso de papel y de encontrar mejores formas de organizar sus tareas escolares.
+Los estudiantes deben aplicar roles de storytelling al analizar los resultados de las encuestas. Por ejemplo,
+pueden identificar al "Héroe" como el padre o el estudiante que enfrenta el desafío de reducir el uso de papel y de encontrar mejores formas de organizar sus tareas escolares.
 Utilizar las 3C's (Claridad, Conflicto, Conexión) para estructurar su narrativa:
 Claridad: ¿Qué problema quieren resolver? Ej. Uso excesivo de papel en las escuelas.
 Conflicto: ¿Qué obstáculo enfrenta su audiencia objetivo? Ej. La dificultad para mantenerse al día con las tareas y boletines físicos.
 Conexión: ¿Cómo su producto o servicio conecta emocionalmente con el usuario? Ej. Ofrecer una solución sostenible y 
 tecnológica que beneficie tanto a los padres como a los estudiantes.
 
-5. Graficar y Analizar los Datos en Google Sheets
+6. Graficar y Analizar los Datos en Google Sheets.
 Después de recolectar los datos con Google Forms, los estudiantes deben importar automáticamente las respuestas a Google Sheets. A partir de ahí, deben usar las funciones de gráficos y tablas dinámicas para visualizar las respuestas.
 Gráfico de barras para comparar cuántos usuarios encuentran útil la app.
 Gráfico de pastel para mostrar la distribución de padres vs. estudiantes en la encuesta.
 Los gráficos les permitirán analizar las tendencias y ajustar su storytelling y el desarrollo del producto en función de las necesidades identificadas.
 
+7. Crear una app usando JAVA y los temas vistos y que vayamos viendo en clase.
+   
 ### Evaluacion del Story Telling efectivo
 Claridad del mensaje: ¿El mensaje es fácil de entender y llega a la audiencia?
 Conflicto y solución: ¿Se presenta un problema claro y cómo el producto lo resuelve?
 Conexión emocional: ¿La historia se conecta de manera significativa con el público objetivo?
 Aplicación del INVEST: ¿Es flexible, pequeña, y se puede medir su impacto?
-
 
 Criterios de aceptacion y evaluacion.
 
@@ -103,6 +107,8 @@ Opcional. Parte 4:
 Otras prácticas en storytelling utilizando TICs:
 **Mapas conceptuales en Google Drawings: Crear mapas conceptuales para visualizar las relaciones entre los conceptos de storytelling (roles, 3 C’s, INVEST).
 Edición colaborativa de imágenes: Pueden utilizar herramientas como Canva para crear imágenes que acompañen su historia en Google Docs o Slides. Esto les permitirá añadir un componente visual al storytelling.
+
+Parte 5. Una simulacion de la app funcionando y/o mostrando lo que se puede hacer.
 
 ## Estructura del trabajo a entregar
 
@@ -149,10 +155,12 @@ Formato APA: Se evaluará la correcta aplicación del formato APA en todo el tra
 Colaboración: Uso de herramientas colaborativas (Google Docs, Sheets) para el desarrollo conjunto del proyecto.
 Presentación Visual: Calidad de la presentación en Google Slides, uso correcto de imágenes, gráficos y diseño profesional.
 Originalidad y Creatividad: Uso creativo de los conceptos de storytelling en el ejemplo ficticio.
+Mostrar una simulacion en el IDE que se escogio de la aplicacion planteada.
 
 ## Evaluacion
+(20%)
+Claridad: ¿Está la investigación organizada de manera clara y fácil de entender en Google Docs, google sheets, etc? 
+Colaboración: ¿Utilizaron las herramientas de colaboración (comentarios, edición conjunta) de Google Docs de manera efectiva? 
+Creatividad: ¿Aplicaron de manera creativa los conceptos de roles, las 3 C’s y el método INVEST en sus ejemplos o historias?
 
-Claridad: ¿Está la investigación organizada de manera clara y fácil de entender en Google Docs, google sheets, etc? (10%)
-Colaboración: ¿Utilizaron las herramientas de colaboración (comentarios, edición conjunta) de Google Docs de manera efectiva? (10%)
-Creatividad: ¿Aplicaron de manera creativa los conceptos de roles, las 3 C’s y el método INVEST en sus ejemplos o historias? (10%)
-Presentación visual: ¿Usaron correctamente las herramientas de Google Slides o Google Sheets para presentar la información de manera atractiva y comprensible? (30%)
+Presentación visual: ¿Usaron correctamente las herramientas de Google Slides o Google Sheets, la aplicacion es funcional para presentar la información de manera atractiva y comprensible, la codificacion fue correcta usando buenas practicas y sigue una secuencia logica, diseno de la interfaz? (40%).
