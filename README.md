@@ -1,4 +1,4 @@
-# Story Telling
+# Story Telling y la creacion de una app en App Inventor
 
 ##### Herramientas a usar: 
     Google forms, google sheets, google docs, google slides, google draw, google drive o 
