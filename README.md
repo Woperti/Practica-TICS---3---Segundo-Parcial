@@ -1,9 +1,11 @@
 # Story Telling
 
 ##### Herramientas a usar: 
-    Google forms, google sheets, google docs, google slides, google draw, google drive o sus equivalentes en microsoft si no cuenta con una cuenta de google.
+    Google forms, google sheets, google docs, google slides, google draw, google drive o 
+    sus equivalentes en microsoft si no cuenta con una cuenta de google.
     AppInventor, para imagenes sin copyright: unsplash, etc.
-    ** El proyecto se trabajara en el laboratorio durante el horario de clases y podran usar tiempo fuera del horario escolar para completarlo.
+    ** El proyecto se trabajara en el laboratorio durante el horario de clases y podran usar 
+    tiempo fuera del horario escolar para completarlo.
     
 Introduccion:
 
